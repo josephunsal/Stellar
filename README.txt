@@ -24,4 +24,4 @@ Note for the test cases:
 Since I don't have previous experience on ruby or rspec/faraday I have only done the first part of the assignment.
 But if I am asked I am confident that I can learn new tools and practice them in short time.
 
-Thanks for the opportunity
+Thanks for the opportunity.
